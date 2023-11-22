@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "b85b8876be4076f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "60c5a7d7fb95629c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Система «Рейтинг студентов»/Модуль 1 Регистрация коллективов (Вовлеченность)/Модель «Как будет»/Версия 2.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdc978cc8ffd81af",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0aa989e353a6088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fefb3f3a85331c7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "958e2cd969b52370",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#модель",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "999be1b39fb800d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 458
+  },
+  "right": {
+    "id": "0e271974c0698df2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bd107556b82bd46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4dd308aed04f667",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90dbc6191cfda0d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Система «Рейтинг студентов»/Модуль 1 Регистрация коллективов (Вовлеченность)/Модель «Как будет»/Версия 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cdba108b39705f32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Система «Рейтинг студентов»/Модуль 1 Регистрация коллективов (Вовлеченность)/Модель «Как будет»/Версия 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "60c5a7d7fb95629c",
+  "lastOpenFiles": [
+    "Система «Рейтинг студентов»/Модуль 1 Регистрация коллективов (Вовлеченность)/Модель «Как будет»/Версия 2.md",
+    "Картинки/А1-А4.png",
+    "Картинки/Выбор направления (меню закрыто).png",
+    "Система «Рейтинг студентов»/Модуль 1 Регистрация коллективов (Вовлеченность)/Встреча со студенческими отрядами.md",
+    "Система «Рейтинг студентов»/Модуль 1 Регистрация коллективов (Вовлеченность)/Встреча со студенческим советом.md",
+    "Система «Рейтинг студентов»/Модуль 1 Регистрация коллективов (Вовлеченность)/Встреча с руководителем культурно-творческой деятельности.md",
+    "Система «Рейтинг студентов»/Модуль 1 Регистрация коллективов (Вовлеченность)/Модель «Как будет»/Версия 1.md",
+    "Система «Рейтинг студентов»/Модуль 1 Регистрация коллективов (Вовлеченность)/Модель «Как есть»/Версия 1.md",
+    "Система «Рейтинг студентов»/Модуль 5 Начисление рейтинговой стипендии/3 Реализация/Без названия.md",
+    "Система «Рейтинг студентов»/Словари/Словарь терминов.md"
+  ]
+}
